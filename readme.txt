@@ -3,7 +3,7 @@ Contributors: GamerZ
 Donate link: http://lesterchan.net/site/donation/
 Tags: freemyinternet, MDA, Singapore, free, censorship, regulation, licensing scheme, Internet  
 Requires at least: 2.8  
-Tested up to: 4.1  
+Tested up to: 4.2  
 Stable tag: trunk
 License: GPLv2 or later  
 
@@ -15,6 +15,9 @@ Automatically places the FreeMyInternet banner from [FreeMyInternet.com](http://
 
 = Credits =
 * xenomancer of [Censor Me](http://wordpress.org/plugins/censor-me/ "Censor Me")
+
+= Donations =
+I spent most of my free time creating, updating, maintaining and supporting these plugins, if you really love my plugins and could spare me a couple of bucks, I will really appreciate it. If not feel free to use it without any obligations.
 
 == Changelog ==
 
